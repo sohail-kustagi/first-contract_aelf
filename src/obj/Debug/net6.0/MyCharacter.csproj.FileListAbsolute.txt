@@ -1,0 +1,12 @@
+/home/hafiza-pc/first_contract_aelf/src/bin/Debug/net6.0/MyCharacter.deps.json
+/home/hafiza-pc/first_contract_aelf/src/bin/Debug/net6.0/MyCharacter.dll
+/home/hafiza-pc/first_contract_aelf/src/bin/Debug/net6.0/ref/MyCharacter.dll
+/home/hafiza-pc/first_contract_aelf/src/bin/Debug/net6.0/MyCharacter.pdb
+/home/hafiza-pc/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.csproj.AssemblyReference.cache
+/home/hafiza-pc/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.GeneratedMSBuildEditorConfig.editorconfig
+/home/hafiza-pc/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.AssemblyInfoInputs.cache
+/home/hafiza-pc/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.AssemblyInfo.cs
+/home/hafiza-pc/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.csproj.CoreCompileInputs.cache
+/home/hafiza-pc/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.dll
+/home/hafiza-pc/first_contract_aelf/src/obj/Debug/net6.0/ref/MyCharacter.dll
+/home/hafiza-pc/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.pdb

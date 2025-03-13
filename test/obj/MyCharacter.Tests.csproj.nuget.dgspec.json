@@ -1,0 +1,176 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/hafiza-pc/first_contract_aelf/test/MyCharacter.Tests.csproj": {}
+  },
+  "projects": {
+    "/home/hafiza-pc/first_contract_aelf/src/MyCharacter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/hafiza-pc/first_contract_aelf/src/MyCharacter.csproj",
+        "projectName": "MyCharacter",
+        "projectPath": "/home/hafiza-pc/first_contract_aelf/src/MyCharacter.csproj",
+        "packagesPath": "/home/hafiza-pc/.nuget/packages/",
+        "outputPath": "/home/hafiza-pc/first_contract_aelf/src/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/hafiza-pc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AElf.Sdk.CSharp": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "AElf.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.127/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/hafiza-pc/first_contract_aelf/test/MyCharacter.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/hafiza-pc/first_contract_aelf/test/MyCharacter.Tests.csproj",
+        "projectName": "MyCharacter.Tests",
+        "projectPath": "/home/hafiza-pc/first_contract_aelf/test/MyCharacter.Tests.csproj",
+        "packagesPath": "/home/hafiza-pc/.nuget/packages/",
+        "outputPath": "/home/hafiza-pc/first_contract_aelf/test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/hafiza-pc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/hafiza-pc/first_contract_aelf/src/MyCharacter.csproj": {
+                "projectPath": "/home/hafiza-pc/first_contract_aelf/src/MyCharacter.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AElf.ContractTestKit": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "AElf.EconomicSystem": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "AElf.GovernmentSystem": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "AElf.Testing.TestBase": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "AElf.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.3.0, )"
+            },
+            "Shouldly": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "coverlet.msbuild": {
+              "target": "Package",
+              "version": "[2.5.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.console": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.127/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
